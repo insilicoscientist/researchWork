@@ -1,0 +1,3 @@
+NIH Grant analysis
+
+Data mining of the NIH grants for the past 30 years is conducted. The aim is to understand the trends in research on bacterial species. The data is obtained from NIH, from where the plain text abstracts of funded projects are available to freely download. PySpark, BASH shell scripts and R are used in analyzing data. Final output is a line-plot for each bacterial species, with x-axis of years and y-axis with count.
